@@ -1,1 +1,11 @@
-����ٹ�ɶ������
+安装与说明文档:  
+TortoiseGit 简称 tgit, 中文名海龟Git. 海龟Git只支持神器 Windows 系统, 有一个前辈海龟SVN, TortoiseSVN和TortoiseGit都是非常优秀的开源的版本库客户端. 分为32位版与64位版.并且支持各种语言,包括简体中文(Chinese, simplified; zh_CN).
+
+**注意:** XP系统已经不支持最新的安装包,请尽量使用 Win7 或更高版本的操作系统.
+
+安装顺序:
+Git-2.11.0.3-64-bit.exe
+TortoiseGit-2.3.0.0-64bit.msi
+TortoiseGit-LanguagePack-2.3.0.0-64bit-zh_CN.msi
+
+详细信息和安装说明: https://github.com/cncounter/translation/blob/master/tiemao_2014/GitHelp/GitHelp.md
