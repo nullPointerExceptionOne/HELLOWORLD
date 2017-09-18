@@ -9,3 +9,4 @@ TortoiseGit-2.3.0.0-64bit.msi
 TortoiseGit-LanguagePack-2.3.0.0-64bit-zh_CN.msi
 
 详细信息和安装说明: https://github.com/cncounter/translation/blob/master/tiemao_2014/GitHelp/GitHelp.md
+-------------------------------------------------------------------------------------------------------
